@@ -4939,7 +4939,7 @@ input.ng-dirty.ng-invalid {
 .page-container {
   background-color: #1f1d1d;
   padding: 2rem 4rem;
-  max-width: 1060px;
+  max-width: auto;
   min-height: calc(100% - 54px);
   padding-bottom: 5rem;
   background-image: linear-gradient(60deg, transparent 70%, #141313 98%); }
