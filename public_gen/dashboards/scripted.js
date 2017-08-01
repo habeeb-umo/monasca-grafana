@@ -58,7 +58,7 @@ for (var i = 0; i < rows; i++) {
       {
         title: 'Events',
         type: 'graph',
-        span: 12,
+        span: 6,
         fill: 1,
         linewidth: 2,
         targets: [

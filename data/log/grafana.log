@@ -1,211 +1,36 @@
-t=2017-06-28T06:33:46-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/ status=302 remote_addr=16.109.216.78 time_ms=0 size=29 referer=
-t=2017-06-28T06:33:46-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=OPTIONS path=/ status=404 remote_addr=16.109.216.78 time_ms=5 size=8410 referer=
-t=2017-06-28T06:33:46-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=PROPFIND path=/ status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:33:49-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/Rapid7/JBoss/version-check-wMn7kB.html status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:33:50-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/console/login/LoginForm.jsp status=404 remote_addr=16.109.216.78 time_ms=4 size=8410 referer=
-t=2017-06-28T06:33:52-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/igsponsor status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:33:52-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/ status=302 remote_addr=16.109.216.78 time_ms=0 size=29 referer=
-t=2017-06-28T06:33:56-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/ status=302 remote_addr=16.109.216.78 time_ms=0 size=29 referer=
-t=2017-06-28T06:33:56-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/ status=302 remote_addr=16.109.216.78 time_ms=0 size=29 referer=
-t=2017-06-28T06:33:56-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/jbossws/ status=404 remote_addr=16.109.216.78 time_ms=5 size=8410 referer=
-t=2017-06-28T06:33:57-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/invoker/ status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:33:57-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/jbossmq-httpil/ status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:33:57-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/status/ status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:33:57-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/ status=302 remote_addr=16.109.216.78 time_ms=0 size=29 referer=
-t=2017-06-28T06:33:57-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/ status=302 remote_addr=16.109.216.78 time_ms=0 size=29 referer=
-t=2017-06-28T06:33:57-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/reviews status=404 remote_addr=16.109.216.78 time_ms=4 size=8410 referer=
-t=2017-06-28T06:33:57-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/ status=302 remote_addr=16.109.216.78 time_ms=0 size=29 referer=
-t=2017-06-28T06:33:58-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/ status=302 remote_addr=16.109.216.78 time_ms=0 size=29 referer=
-t=2017-06-28T06:33:58-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/ status=302 remote_addr=16.109.216.78 time_ms=0 size=29 referer=
-t=2017-06-28T06:33:58-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/login.action status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:33:58-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/owa/auth/logon.aspx status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:33:58-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/owa/auth/logon.aspx status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:33:58-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/owa/auth/logon.aspx status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:33:58-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/console/App.html status=404 remote_addr=16.109.216.78 time_ms=5 size=8410 referer=
-t=2017-06-28T06:33:58-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/ status=302 remote_addr=16.109.216.78 time_ms=0 size=29 referer=
-t=2017-06-28T06:33:59-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/php/login.php status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:33:59-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/ status=302 remote_addr=16.109.216.78 time_ms=0 size=29 referer=
-t=2017-06-28T06:33:59-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/CHANGELOG.txt status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:33:59-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/wordpress/readme.html status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:33:59-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/ status=302 remote_addr=16.109.216.78 time_ms=0 size=29 referer=
-t=2017-06-28T06:33:59-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/wordpress status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:33:59-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/wordpress/wp-login.php status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:33:59-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/index.php/login status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:33:59-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/jira/secure/Dashboard.jspa status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:33:59-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/secure/Dashboard.jspa status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:33:59-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/login.jsp status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:00-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/ status=302 remote_addr=16.109.216.78 time_ms=0 size=29 referer=
-t=2017-06-28T06:34:00-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/spiffymcgee.jsp status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:00-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/spiffymcgee.cfm status=404 remote_addr=16.109.216.78 time_ms=4 size=8410 referer=
-t=2017-06-28T06:34:00-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/spiffymcgee.nsf status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:00-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/servlet/ status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:00-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/administrator/manifests/files/joomla.xml status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:00-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/administrator/language/en-GB/en-GB.xml status=404 remote_addr=16.109.216.78 time_ms=4 size=8410 referer=
-t=2017-06-28T06:34:00-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/language/en-GB/en-GB.xml status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:00-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/ status=302 remote_addr=16.109.216.78 time_ms=0 size=29 referer=
-t=2017-06-28T06:34:00-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/xmldata status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:05-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/phpmyadmin/ status=404 remote_addr=16.109.216.78 time_ms=4 size=8410 referer=
-t=2017-06-28T06:34:05-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/console/faces/com_sun_web_ui/jsp/version/version_30.jsp status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:05-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/console/faces/com_sun_web_ui/jsp/version/version_4.jsp status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:10-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/ status=302 remote_addr=16.109.216.78 time_ms=0 size=29 referer=
-t=2017-06-28T06:34:10-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/cgi-bin/htsearch status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:11-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/c99.php status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:11-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=POST path=/xmlrpc.php status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:11-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=POST path=/serendipity/serendipity_xmlrpc.php status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:11-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=POST path=/serendipity/xmlrpc.php status=404 remote_addr=16.109.216.78 time_ms=4 size=8410 referer=
-t=2017-06-28T06:34:11-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=POST path=/drupal/xmlrpc.php status=404 remote_addr=16.109.216.78 time_ms=4 size=8410 referer=
-t=2017-06-28T06:34:11-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=POST path=/bblog/xmlrpc.php status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:11-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=POST path=/blogs/xmlsrv/xmlrpc.php status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:11-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=POST path=/xmlsrv/xmlrpc.php status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:11-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=POST path=/xmlrpc/xmlrpc.php status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:11-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=POST path=/script/xmlrpc.php status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:11-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/jkstatus/ status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:11-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/conf/ssl/apache/integrity.key status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:11-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/conf/ssl/apache/integrity-smartcenter.key status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:11-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/CFIDE/scheduler/ status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:11-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/CFIDE/servermanager/ status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:11-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/CFIDE/componentutils/cfcexplorer.cfc status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:11-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/CFIDE/componentutils/cfcexplorer.cfc status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:11-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/CFIDE/adminapi/customtags/soft404validationcheck.cfm status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:12-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/CFIDE/soft404validationcheck.cfm status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:12-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/CFIDE/adminapi/customtags/fusebox.cfm status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:12-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/CFIDE/adminapi/customtags/adss.cfm status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:12-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/CFIDE/h.cfm status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:12-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/CFIDE/h9.cfm status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:12-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/CFIDE/help.cfm status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:12-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/CFIDE/i.cfm status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:12-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/CFIDE/r.cfm status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:12-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/CFIDE/AIR/ status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:12-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=HEAD path=/ status=302 remote_addr=16.109.216.78 time_ms=0 size=0 referer=
-t=2017-06-28T06:34:12-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/CFIDE/wizards/common/ status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:12-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/CFIDE/administrator/enter.cfm status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:12-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/cgi-bin/php.ini status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:12-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/phpmyadmin/ status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:12-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/~bin/true status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:12-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=POST path=/cgi-bin/test-cgi status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:13-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/CFIDE/componentutils/ status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:13-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/scripts/tools/newdsn.exe status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:13-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/AdvWorks/equipment/catalog_type.asp status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:13-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/ASPSamp/AdvWorks/equipment/catalog_type.asp status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:13-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/CFIDE/orm/ status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:13-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/CFIDE/adminapi/base.cfc status=404 remote_addr=16.109.216.78 time_ms=4 size=8410 referer=
-t=2017-06-28T06:34:13-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=POST path=/ status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:13-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/cgi-bin/view-source status=404 remote_addr=16.109.216.78 time_ms=5 size=8410 referer=
-t=2017-06-28T06:34:13-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/cgi-bin/awstats.pl status=404 remote_addr=16.109.216.78 time_ms=6 size=8410 referer=
-t=2017-06-28T06:34:13-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/cgi-bin/awstats/awstats.pl status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:13-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/crossdomain.xml status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:13-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/cgi-bin/faxsurvey status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:13-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/cgi-bin/faxquery status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:13-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/README.txt status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:14-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/_vti_bin/_vti_aut/author.dll status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:14-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/CFIDE/adminapi/customtags/l10n.cfm status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:14-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/CFIDE/adminapi/customtags/l10n.cfm status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:14-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=TRACE path=/ status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:14-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/bb/ status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:14-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/ status=302 remote_addr=16.109.216.78 time_ms=0 size=29 referer=
-t=2017-06-28T06:34:14-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/CFIDE/appdeployment/ status=404 remote_addr=16.109.216.78 time_ms=4 size=8410 referer=
-t=2017-06-28T06:34:14-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path="/cgi-bin/htgrep/file=index.html&hdr=/etc/passwd" status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:14-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/CFIDE/websocket/ status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:14-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/struts2-showcase/employee/save.action status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:14-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/CFIDE/portlets/ status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:14-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/CFIDE/wizards/common/utils.cfc status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:14-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/CFIDE/adminiapi/ status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:15-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/CFIDE/services/ status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:15-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/CFIDE/administrator/ status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:15-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/CFIDE/administrator/enter.cfm status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:15-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/cgi-bin/awstats.pl status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:15-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/cgi-bin/awstats/awstats.pl status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:15-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/struts2-blank/example/HelloWorld.action status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:15-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/ status=302 remote_addr=16.109.216.78 time_ms=0 size=29 referer=
-t=2017-06-28T06:34:15-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/cgi-bin/htmlscript status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:15-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=TRACK path=/ status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:15-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=POST path=/flex2gateway/http status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:15-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=POST path=/flex2gateway/httpsecure status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:15-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=POST path=/messagebroker/http status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:15-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=POST path=/messagebroker/httpsecure status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:15-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=POST path=/blazeds/messagebroker/http status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:15-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=POST path=/blazeds/messagebroker/httpsecure status=404 remote_addr=16.109.216.78 time_ms=4 size=8410 referer=
-t=2017-06-28T06:34:16-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=POST path=/samples/messagebroker/http status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:16-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=POST path=/samples/messagebroker/httpsecure status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:16-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=POST path=/lcds/messagebroker/http status=404 remote_addr=16.109.216.78 time_ms=4 size=8410 referer=
-t=2017-06-28T06:34:16-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=POST path=/lcds/messagebroker/httpsecure status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:16-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=POST path=/lcds-samples/messagebroker/http status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:16-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=POST path=/lcds-samples/messagebroker/httpsecure status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:16-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/r7.txt status=404 remote_addr=16.109.216.78 time_ms=4 size=8410 referer=
-t=2017-06-28T06:34:16-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=PUT path=/r7.txt status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:16-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/r7.txt status=404 remote_addr=16.109.216.78 time_ms=2 size=8410 referer=
-t=2017-06-28T06:34:16-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=HEAD path=/index.php status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T06:34:16-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/ status=302 remote_addr=16.109.216.78 time_ms=0 size=29 referer=
-t=2017-06-28T06:34:17-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/portal/diag/index.jsp status=404 remote_addr=16.109.216.78 time_ms=3 size=8410 referer=
-t=2017-06-28T10:12:03-0600 lvl=info msg="Shutdown started" logger=server code=0 reason="system signal: interrupt"
-t=2017-06-28T10:12:03-0600 lvl=info msg="stopped http server" logger=http.server
-t=2017-06-28T10:12:03-0600 lvl=info msg="Stopped CleanUpService" logger=cleanup reason="context canceled"
-t=2017-06-28T10:12:04-0600 lvl=info msg="Starting Grafana" logger=main version=4.4.0-pre1 commit=01ff3bb compiled=2017-06-07T14:03:10-0600
-t=2017-06-28T10:12:04-0600 lvl=info msg="Config loaded from" logger=settings file=/home/habeeb/monasca-grafana/conf/defaults.ini
-t=2017-06-28T10:12:04-0600 lvl=info msg="Path Home" logger=settings path=/home/habeeb/monasca-grafana
-t=2017-06-28T10:12:04-0600 lvl=info msg="Path Data" logger=settings path=/home/habeeb/monasca-grafana/data
-t=2017-06-28T10:12:04-0600 lvl=info msg="Path Logs" logger=settings path=/home/habeeb/monasca-grafana/data/log
-t=2017-06-28T10:12:04-0600 lvl=info msg="Path Plugins" logger=settings path=/home/habeeb/monasca-grafana/data/plugins
-t=2017-06-28T10:12:04-0600 lvl=info msg="Initializing DB" logger=sqlstore dbtype=sqlite3
-t=2017-06-28T10:12:04-0600 lvl=info msg="Starting DB migration" logger=migrator
-t=2017-06-28T10:12:04-0600 lvl=info msg="Executing migration" logger=migrator id="copy data account to org"
-t=2017-06-28T10:12:04-0600 lvl=info msg="Skipping migration condition not fulfilled" logger=migrator id="copy data account to org"
-t=2017-06-28T10:12:04-0600 lvl=info msg="Executing migration" logger=migrator id="copy data account_user to org_user"
-t=2017-06-28T10:12:04-0600 lvl=info msg="Skipping migration condition not fulfilled" logger=migrator id="copy data account_user to org_user"
-t=2017-06-28T10:12:04-0600 lvl=info msg="Starting plugin search" logger=plugins
-t=2017-06-28T10:12:04-0600 lvl=info msg="Registering plugin" logger=plugins name=Monasca
-t=2017-06-28T10:12:04-0600 lvl=info msg="Registering plugin" logger=plugins name=Monasca
-t=2017-06-28T10:12:04-0600 lvl=info msg="Initializing CleanUpService" logger=cleanup
-t=2017-06-28T10:12:04-0600 lvl=info msg="Initializing Alerting" logger=alerting.engine
-t=2017-06-28T10:12:04-0600 lvl=info msg="Initializing Stream Manager"
-t=2017-06-28T10:12:04-0600 lvl=info msg="Initializing HTTP Server" logger=http.server address=0.0.0.0:3001 protocol=http subUrl= socket=
-t=2017-06-28T10:12:36-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/v2.0/alarms status=401 remote_addr=127.0.0.1 time_ms=158 size=114 referer=http://localhost:3001/plugins/monasca-app/page/alarms
-t=2017-06-28T10:12:36-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/v2.0/alarms status=401 remote_addr=127.0.0.1 time_ms=7 size=114 referer=http://localhost:3001/plugins/monasca-app/page/alarms
-t=2017-06-28T10:12:39-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/v2.0/alarms/count status=401 remote_addr=127.0.0.1 time_ms=129 size=114 referer=http://localhost:3001/plugins/monasca-app/page/overview
-t=2017-06-28T10:12:39-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/v2.0/alarms/count status=401 remote_addr=127.0.0.1 time_ms=127 size=114 referer=http://localhost:3001/plugins/monasca-app/page/overview
-t=2017-06-28T10:12:39-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/v2.0/alarms/count status=401 remote_addr=127.0.0.1 time_ms=13 size=114 referer=http://localhost:3001/plugins/monasca-app/page/overview
-t=2017-06-28T10:12:39-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/v2.0/alarms/count status=401 remote_addr=127.0.0.1 time_ms=22 size=114 referer=http://localhost:3001/plugins/monasca-app/page/overview
-t=2017-06-28T10:26:24-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/v2.0/alarms status=422 remote_addr=127.0.0.1 time_ms=88 size=122 referer=http://localhost:3001/plugins/monasca-app/page/alarms
-t=2017-06-28T10:26:53-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/v2.0/alarms status=422 remote_addr=127.0.0.1 time_ms=265 size=122 referer=http://localhost:3001/plugins/monasca-app/page/alarms
-t=2017-06-28T10:28:07-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/v2.0/alarms status=422 remote_addr=127.0.0.1 time_ms=35 size=122 referer=http://localhost:3001/plugins/monasca-app/page/alarms
-t=2017-06-28T10:28:13-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/v2.0/alarms status=422 remote_addr=127.0.0.1 time_ms=148 size=122 referer=http://localhost:3001/plugins/monasca-app/page/alarms
-t=2017-06-28T10:33:47-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/v2.0/alarms status=422 remote_addr=127.0.0.1 time_ms=83 size=113 referer="http://localhost:3001/plugins/monasca-app/page/alarms?dimensions=hostname:minikube"
-t=2017-06-28T10:42:04-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=PATCH path=/v2.0/alarm-definitions/83611a4c-6a23-46f0-8710-dd4a41f4b496 status=422 remote_addr=127.0.0.1 time_ms=130 size=104 referer="http://localhost:3001/plugins/monasca-app/page/edit-alarm-definition?id=83611a4c-6a23-46f0-8710-dd4a41f4b496"
-t=2017-06-28T10:42:27-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=PATCH path=/v2.0/alarm-definitions/83611a4c-6a23-46f0-8710-dd4a41f4b496 status=502 remote_addr=127.0.0.1 time_ms=505 size=0 referer=http://localhost:3001/plugins/monasca-app/page/alarm-definitions
-t=2017-06-28T10:45:57-0600 lvl=eror msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/v2.0/metrics/statistics status=500 remote_addr=127.0.0.1 time_ms=15 size=186 referer="http://localhost:3001/dashboard/new?panelId=1&fullscreen&edit&orgId=1&tab=metrics"
-t=2017-06-28T10:49:26-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/v2.0/alarms status=422 remote_addr=127.0.0.1 time_ms=395 size=125 referer=http://localhost:3001/plugins/monasca-app/page/alarms
-t=2017-06-28T11:41:29-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/v2.0/metrics/statistics status=401 remote_addr=127.0.0.1 time_ms=351 size=114 referer="http://localhost:3001/dashboard/db/test-dashboard?orgId=1"
-t=2017-06-28T11:41:29-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/v2.0/metrics/statistics status=401 remote_addr=127.0.0.1 time_ms=6 size=114 referer="http://localhost:3001/dashboard/db/test-dashboard?orgId=1"
-t=2017-06-28T11:42:30-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/v2.0/alarms/count status=401 remote_addr=127.0.0.1 time_ms=163 size=114 referer=http://localhost:3001/plugins/monasca-app/page/overview
-t=2017-06-28T11:42:30-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/v2.0/alarms/count status=401 remote_addr=127.0.0.1 time_ms=7 size=114 referer=http://localhost:3001/plugins/monasca-app/page/overview
-t=2017-06-28T11:42:30-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/v2.0/alarms/count status=401 remote_addr=127.0.0.1 time_ms=239 size=114 referer=http://localhost:3001/plugins/monasca-app/page/overview
-t=2017-06-28T11:42:30-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/v2.0/alarms/count status=401 remote_addr=127.0.0.1 time_ms=6 size=114 referer=http://localhost:3001/plugins/monasca-app/page/overview
-t=2017-06-28T11:43:00-0600 lvl=info msg="Shutdown started" logger=server code=0 reason="system signal: interrupt"
-t=2017-06-28T11:43:00-0600 lvl=info msg="stopped http server" logger=http.server
-t=2017-06-28T14:54:26-0600 lvl=info msg="Starting Grafana" logger=main version=4.4.0-pre1 commit=01ff3bb compiled=2017-06-07T14:03:10-0600
-t=2017-06-28T14:54:26-0600 lvl=info msg="Config loaded from" logger=settings file=/home/habeeb/monasca-grafana/conf/defaults.ini
-t=2017-06-28T14:54:26-0600 lvl=info msg="Path Home" logger=settings path=/home/habeeb/monasca-grafana
-t=2017-06-28T14:54:26-0600 lvl=info msg="Path Data" logger=settings path=/home/habeeb/monasca-grafana/data
-t=2017-06-28T14:54:26-0600 lvl=info msg="Path Logs" logger=settings path=/home/habeeb/monasca-grafana/data/log
-t=2017-06-28T14:54:26-0600 lvl=info msg="Path Plugins" logger=settings path=/home/habeeb/monasca-grafana/data/plugins
-t=2017-06-28T14:54:26-0600 lvl=info msg="Initializing DB" logger=sqlstore dbtype=sqlite3
-t=2017-06-28T14:54:26-0600 lvl=info msg="Starting DB migration" logger=migrator
-t=2017-06-28T14:54:26-0600 lvl=info msg="Executing migration" logger=migrator id="copy data account to org"
-t=2017-06-28T14:54:26-0600 lvl=info msg="Skipping migration condition not fulfilled" logger=migrator id="copy data account to org"
-t=2017-06-28T14:54:26-0600 lvl=info msg="Executing migration" logger=migrator id="copy data account_user to org_user"
-t=2017-06-28T14:54:26-0600 lvl=info msg="Skipping migration condition not fulfilled" logger=migrator id="copy data account_user to org_user"
-t=2017-06-28T14:54:26-0600 lvl=info msg="Starting plugin search" logger=plugins
-t=2017-06-28T14:54:26-0600 lvl=info msg="Registering plugin" logger=plugins name=Monasca
-t=2017-06-28T14:54:26-0600 lvl=info msg="Registering plugin" logger=plugins name=Monasca
-t=2017-06-28T14:54:26-0600 lvl=info msg="Initializing Alerting" logger=alerting.engine
-t=2017-06-28T14:54:26-0600 lvl=info msg="Initializing CleanUpService" logger=cleanup
-t=2017-06-28T14:54:26-0600 lvl=info msg="Initializing Stream Manager"
-t=2017-06-28T14:54:26-0600 lvl=info msg="Initializing HTTP Server" logger=http.server address=0.0.0.0:3001 protocol=http subUrl= socket=
-t=2017-06-28T14:54:27-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/ status=302 remote_addr=127.0.0.1 time_ms=0 size=29 referer=
-t=2017-06-28T14:54:56-0600 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/ status=302 remote_addr=127.0.0.1 time_ms=0 size=29 referer=
-t=2017-06-28T14:59:40-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/login status=302 remote_addr=127.0.0.1 time_ms=8 size=24 referer=
-t=2017-06-28T15:00:30-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/v2.0/alarms status=422 remote_addr=127.0.0.1 time_ms=138 size=111 referer="http://localhost:3001/plugins/monasca-app/page/alarms?dimensions=hostname:minikube"
-t=2017-06-28T15:15:42-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/v2.0/alarms/count status=401 remote_addr=127.0.0.1 time_ms=157 size=114 referer=http://localhost:3001/plugins/monasca-app/page/overview
-t=2017-06-28T15:15:42-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/v2.0/alarms/count status=401 remote_addr=127.0.0.1 time_ms=172 size=114 referer=http://localhost:3001/plugins/monasca-app/page/overview
-t=2017-06-28T15:15:42-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/v2.0/alarms/count status=401 remote_addr=127.0.0.1 time_ms=5 size=114 referer=http://localhost:3001/plugins/monasca-app/page/overview
-t=2017-06-28T15:15:42-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/v2.0/alarms/count status=401 remote_addr=127.0.0.1 time_ms=5 size=114 referer=http://localhost:3001/plugins/monasca-app/page/overview
+t=2017-08-01T09:39:28-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/v2.0/alarms/count status=502 remote_addr=127.0.0.1 time_ms=2 size=0 referer=http://localhost:3001/plugins/monasca-app/page/overview
+t=2017-08-01T09:39:28-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/v2.0/alarms/count status=502 remote_addr=127.0.0.1 time_ms=1 size=0 referer=http://localhost:3001/plugins/monasca-app/page/overview
+t=2017-08-01T12:54:41-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/v2.0/metrics/measurements status=401 remote_addr=127.0.0.1 time_ms=200 size=114 referer="http://localhost:3001/dashboard/script/graph_series.js?rows=3&name=myName&orgId=1"
+t=2017-08-01T12:54:41-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/v2.0/metrics/measurements status=401 remote_addr=127.0.0.1 time_ms=203 size=114 referer="http://localhost:3001/dashboard/script/graph_series.js?rows=3&name=myName&orgId=1"
+t=2017-08-01T12:54:41-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/v2.0/metrics/measurements status=401 remote_addr=127.0.0.1 time_ms=7 size=114 referer="http://localhost:3001/dashboard/script/graph_series.js?rows=3&name=myName&orgId=1"
+t=2017-08-01T12:54:41-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/v2.0/metrics/measurements status=401 remote_addr=127.0.0.1 time_ms=7 size=114 referer="http://localhost:3001/dashboard/script/graph_series.js?rows=3&name=myName&orgId=1"
+t=2017-08-01T12:54:41-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/v2.0/metrics/measurements status=401 remote_addr=127.0.0.1 time_ms=12 size=114 referer="http://localhost:3001/dashboard/script/graph_series.js?rows=3&name=myName&orgId=1"
+t=2017-08-01T12:54:41-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/v2.0/metrics/measurements status=401 remote_addr=127.0.0.1 time_ms=4 size=114 referer="http://localhost:3001/dashboard/script/graph_series.js?rows=3&name=myName&orgId=1"
+t=2017-08-01T12:55:04-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/public/plugins/monasca-app/components/overview.js status=404 remote_addr=127.0.0.1 time_ms=10 size=10937 referer=http://localhost:3001/plugins/monasca-app/page/overview
+t=2017-08-01T12:55:11-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/public/plugins/monasca-app/components/overview.js status=404 remote_addr=127.0.0.1 time_ms=13 size=10937 referer=http://localhost:3001/plugins/monasca-app/page/alarms
+t=2017-08-01T12:55:13-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/public/plugins/monasca-app/components/overview.js status=404 remote_addr=127.0.0.1 time_ms=9 size=10937 referer=http://localhost:3001/plugins/monasca-app/page/alarm-definitions
+t=2017-08-01T12:55:15-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/public/plugins/monasca-app/components/overview.js status=404 remote_addr=127.0.0.1 time_ms=7 size=10937 referer=http://localhost:3001/plugins/monasca-app/page/notifications
+t=2017-08-01T12:55:35-0600 lvl=info msg="Shutdown started" logger=server code=0 reason="system signal: interrupt"
+t=2017-08-01T12:55:35-0600 lvl=info msg="stopped http server" logger=http.server
+t=2017-08-01T12:55:36-0600 lvl=info msg="Starting Grafana" logger=main version=4.4.0-pre1 commit=01ff3bb compiled=2017-06-07T14:03:10-0600
+t=2017-08-01T12:55:36-0600 lvl=info msg="Config loaded from" logger=settings file=/home/habeeb/monasca-grafana/conf/defaults.ini
+t=2017-08-01T12:55:36-0600 lvl=info msg="Path Home" logger=settings path=/home/habeeb/monasca-grafana
+t=2017-08-01T12:55:36-0600 lvl=info msg="Path Data" logger=settings path=/home/habeeb/monasca-grafana/data
+t=2017-08-01T12:55:36-0600 lvl=info msg="Path Logs" logger=settings path=/home/habeeb/monasca-grafana/data/log
+t=2017-08-01T12:55:36-0600 lvl=info msg="Path Plugins" logger=settings path=/home/habeeb/monasca-grafana/data/plugins
+t=2017-08-01T12:55:36-0600 lvl=info msg="Initializing DB" logger=sqlstore dbtype=sqlite3
+t=2017-08-01T12:55:36-0600 lvl=info msg="Starting DB migration" logger=migrator
+t=2017-08-01T12:55:36-0600 lvl=info msg="Executing migration" logger=migrator id="copy data account to org"
+t=2017-08-01T12:55:36-0600 lvl=info msg="Skipping migration condition not fulfilled" logger=migrator id="copy data account to org"
+t=2017-08-01T12:55:36-0600 lvl=info msg="Executing migration" logger=migrator id="copy data account_user to org_user"
+t=2017-08-01T12:55:36-0600 lvl=info msg="Skipping migration condition not fulfilled" logger=migrator id="copy data account_user to org_user"
+t=2017-08-01T12:55:36-0600 lvl=info msg="Starting plugin search" logger=plugins
+t=2017-08-01T12:55:36-0600 lvl=info msg="Registering plugin" logger=plugins name=Monasca
+t=2017-08-01T12:55:36-0600 lvl=info msg="Registering plugin" logger=plugins name=Monasca
+t=2017-08-01T12:55:36-0600 lvl=info msg="Initializing Alerting" logger=alerting.engine
+t=2017-08-01T12:55:36-0600 lvl=info msg="Initializing CleanUpService" logger=cleanup
+t=2017-08-01T12:55:36-0600 lvl=info msg="Initializing Stream Manager"
+t=2017-08-01T12:55:36-0600 lvl=info msg="Initializing HTTP Server" logger=http.server address=0.0.0.0:3001 protocol=http subUrl= socket=
+t=2017-08-01T12:55:39-0600 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/public/plugins/monasca-app/components/overview.js status=404 remote_addr=127.0.0.1 time_ms=4 size=10937 referer=http://localhost:3001/plugins/monasca-app/page/notifications
+t=2017-08-01T12:55:47-0600 lvl=info msg="Shutdown started" logger=server code=0 reason="system signal: interrupt"
+t=2017-08-01T12:55:47-0600 lvl=info msg="stopped http server" logger=http.server
